@@ -108,3 +108,23 @@ canvas {
 #card:active {
   transform: scale(1.05);
 }
+
+#card1:active {
+  transform: scale(1.05);
+}
+
+#card2:active {
+  transform: scale(1.05);
+}
+
+#card3:active {
+  transform: scale(1.05);
+}
+
+#card4:active {
+  transform: scale(1.05);
+}
+
+#card5:active {
+  transform: scale(1.05);
+}
