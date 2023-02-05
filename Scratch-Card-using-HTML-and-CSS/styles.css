@@ -19,8 +19,8 @@ body {
 }
 
 #card {
-  width: 400px;
-  height: 450px;
+  width: 200px;
+  height: 250px;
   position: relative;
   user-select: none;
 }
